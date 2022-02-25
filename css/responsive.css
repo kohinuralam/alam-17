@@ -1,0 +1,491 @@
+/*for-tablet*/
+
+ @media screen and (min-width: 767px) and (max-width: 991px) {
+	 
+	 /*header-start*/
+	.call-area {
+		padding: 10px 0 5px;
+ 
+		}
+	 
+	.mail-content img {
+		margin-left: 10px;
+	
+		}
+	/*header-end*/
+	
+	/*navigation-area-start*/
+	.navigation ul li a {
+		padding: 0 15px;
+		}
+ 
+	.navigation-Get {
+		padding: 8px 0 8px;
+		}	
+	/*navigation-area-start*/
+	
+	/*about-area-start*/
+ 
+	.about-content h2 {
+		margin-top: 35px;
+		}
+ 
+	.about-content p {
+		margin-top: 25px;
+		}
+ 
+	.about-content a {
+		margin-top: 15px;
+		}
+	/*about-area-end*/
+	
+	/*products-2-item-area-end*/
+ 
+	.products-2-item-1 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-2-item-2 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-2-item-3 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-2-item-4 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-2-item-2 img {
+		margin-left: 55px;
+		}
+ 
+ /*products-2-item-area-end*/
+ 
+ /*products-1-item-area-start*/
+	.products-item-1 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-item-2 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-item-3 a {
+		margin-left: 20%;
+	
+		}
+ 
+	.products-item-4 a {
+		margin-left: 20%;
+	
+		}
+ 
+ /*products-1-item-area-end*/
+ 
+ /*products-button-area-start*/
+ .button a {
+		margin-left: 43%;
+		margin-top: 30px;
+	
+		}
+ 
+  /*products-button-area-end*/
+  
+ /*form-area-start*/
+	.form-content h1{
+		margin-top: 40px;
+		}
+ 
+	.form-image img {
+		margin-top: 50px;
+		}
+		
+	textarea {
+		width: 92%;
+		color: #FFF;
+		background: transparent;  
+		}
+ 
+ 
+	/*form-area-start*/
+  
+	.form-wrap input[type=Email] {
+		background: #35345E;
+		width: 70%;
+		height: 38px;
+		}
+
+	.subscrive-hadding {
+		font-size: 12px;
+		margin-top: 20px;
+		}
+		
+	.subscrive-img img {
+		margin-top: 20px;
+		padding-right: 10px;
+		}
+		
+		/*form-area-start*/
+		
+	/*footer-item-area-start*/
+	.footer-item-1 h4 {
+		 margin-top: 40px;
+		}
+		
+	 .footer-item-2 h4 {
+		 margin-top: 40px;
+		}
+	 
+	 .footer-item-3 h4 {
+		 margin-top: 40px;
+		}
+	 
+	 .item-4-hadding h4{
+		margin-top: 40px;
+		}
+	/*footer-item-area-end*/
+	 
+
+
+	
+	 
+ 	
+}
+
+
+/*for-mobil*/
+ @media screen and (max-width: 767px) {
+	 
+	/*header-start*/
+	.call-area {
+		padding: 10px 0 5px;
+ 
+		}
+	
+	.mail-content img {
+		margin-left: 10px;
+	
+		}
+	/*header-start*/
+	
+	/*logo-area-start*/
+	.search-area {
+		margin-top: 20px;
+		}
+	/*logo-area-start*/
+	
+	/*navigation-area-start*/
+	.navigation ul li a {
+		padding: 0 5px;
+		font-size: 15px;
+		}
+ 
+	.navigation-Get {
+		padding: 8px 0 8px;
+		}
+ 
+	.navigation-Get h3{
+		font-size: 16px;
+		color: #ffffff;
+		}
+		
+	.navigation-Get {
+		padding: 5px 0 5px;
+		}
+ 
+  /*navigation-area-end*/
+  
+  /*Hero-area-start*/
+ 
+	.content h1 {
+		margin: 0;
+		font-size: 40px;
+		color: #00b6e8;
+		padding-left: 30px;
+	
+		}
+ 
+	.content h3 {
+		margin: 0;
+		font-size: 30px;
+		padding-left: 30px;
+			
+		}
+ 
+	.content a{
+		margin-left: 80px;
+		font-size: 25px;
+		padding: 0;
+		margin-top: 22px;
+		}
+ 
+	.content {
+		padding: 0 0 30px;
+	
+		}
+ 
+ /*Hero-area-end*/
+ 
+ /*content-item-area-start*/
+ 
+	.content-item-1 {
+		background: #00B6E8;
+		padding: 36px 0 30px;
+		padding-left: 25px;
+		
+		}
+ 
+	.content-item-1 h4 {
+		margin-top: 20px;
+		}
+ 
+	.content-item-1 p {
+		margin-top: 10px;
+		}
+ 
+	.content-item-2 {
+		background: #FC7D09;
+		padding: 40px 0 30px;
+		padding-left: 25px;
+		margin-top: 20px;
+			
+		}
+ 
+	.content-item-2 p {
+		margin-top: 10px;
+		}
+ 
+	.content-item-3 {
+		background: #00B6E8;
+		padding: 40px 0 30px;
+		padding-left: 25px;
+		margin-top: 20px;
+		}
+ 
+	.content-item-3 p {
+		margin-top: 10px;
+		}
+ 
+	.content-item-4 {
+		background:  #FC7D09;
+		padding: 40px 0 30px;
+		padding-left: 25px;
+		margin-top: 20px;
+		}
+ 
+	.content-item-4 p {
+		margin-top: 10px;
+		}
+ 
+ /*content-item-area-start*/
+ 
+   /*about-area-start*/
+	.about-content {
+		padding-left: 25px;
+		}
+ 
+	.about-content h2 {
+		margin-top: 30px;
+		}
+ 
+	.about-content p {
+		margin-top: 20px;
+		}
+ 
+	.about-content a {
+		margin-top: 18px;
+		}
+ /*about-area-end*/
+ 
+   /*group-item-area-start*/
+   .group-item-2 {
+	   margin-top: 20px;
+   }
+	.group-item-1 h4 {
+		margin-top: 10px;
+		}
+ 
+	.group-item-1 p {
+		margin-top: 10px;
+		}
+ 
+	.group-item-1 img {
+		margin-top: 30px;
+		}
+ 
+	.group-item-2 h4 {
+		font-size: 18px;
+		color: #000000;
+		margin-top: 10px;
+		}
+ 
+	.group-item-2 p {
+		margin-top: 10px;
+		}
+ 
+	.group-item-2 img {
+		margin-top: 30px;
+		}
+		
+	.group-item-3 {
+		margin-top: 20px;
+	}
+	
+	.group-item-3 h4 {
+		font-size: 18px;
+		color: #000000;
+		margin-top: 10px;
+		}
+ 
+	.group-item-3 p {
+		margin-top: 10px;
+		}
+ 
+	.group-item-3 img {
+		margin-top: 30px;
+		}
+  
+  /*group-item-area-end*/
+  
+  /*products-1-item-area-start*/
+	.products-item-1 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-item-2 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-item-3 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-item-4 a {
+		margin-left: 18%;
+	
+		}
+ 
+ /*products-1-item-area-end*/
+ 
+ /*products-2-item-area-end*/
+ 
+	.products-2-item-1 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-2-item-2 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-2-item-3 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-2-item-4 a {
+		margin-left: 18%;
+	
+		}
+ 
+	.products-2-item-2 img {
+		margin-left: 55px;
+		}
+ 
+ /*products-2-item-area-end*/
+ 
+ /*products-button-area-start*/
+	.button a {
+		margin-left: 35%;
+		margin-top: 30px;
+	
+		}
+ /*products-button-area-end*/
+ 
+  /*form-area-start*/
+	.form-content h1{
+		font-size: 20px;
+		margin-top: 35px;
+		}
+ 
+	.form-image img {
+		margin-top: 50px;
+		}
+		
+		textarea {
+		width: 92%;
+		color: #FFF;
+		background: transparent;  
+		}
+  
+	.form-wrap input[type=Email] {
+		background: #35345E;
+		width: 65%;
+		height: 38px;
+		}
+  
+	.subscrive-img img {
+		margin-top: 15px;
+		padding-right: 10px;
+		}
+ 
+	.subscrive-hadding {
+		font-size: 12px;
+		margin-top: 15px;
+		}
+ 
+	/*form-area-end*/
+	
+	/*footer-item-area-start*/
+	.footer-item-1 h4 {
+		 margin-top: 30px;
+		}
+		
+	 .footer-item-2 h4 {
+		 margin-top: 30px;
+		}
+	 
+	 .footer-item-3 h4 {
+		 margin-top: 30px;
+		}
+	 
+	 .item-4-hadding h4{
+		margin-top: 30px;
+		}
+	/*footer-item-area-end*/
+	 
+	 
+	 
+	 
+	  
+	  
+	  
+	  
+	 
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+ }
